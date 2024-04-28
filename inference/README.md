@@ -28,3 +28,12 @@ Large transformer-based models like BERT, GPT, have achieved state-of-the-art (S
 | GPU Acceleration | ✅ |
 | **Functionality** |    |
 | User-Friendly SDK| 🛠 |
+
+## License
+
+This code is MIT licensed.
+
+Part of this code is borrowed from `ethereum-optimism/cannon`
+
+Note: This code is unaudited. It in NO WAY should be used to secure any money until a lot more
+testing and auditing are done. 
