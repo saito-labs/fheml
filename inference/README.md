@@ -1,2 +1,30 @@
 ## Model Inference with FHE
 Large transformer-based models like BERT, GPT, have achieved state-of-the-art (SOTA) performance across various real-world applications such as person re-identification, voice assistants , and code autocompletion. As these transformer models increasingly process sensitive data and tackle critical tasks, privacy issues have become a major concern during deployment. Private inference is designed to secure the model weights from users, while also ensuring that no user-specific private data is learned by the server.
+
+
+## Roadmap
+
+🔨 = Pending
+
+🛠 = Work In Progress
+
+✅ = Feature complete
+
+
+| Feature |  Status |
+| ------- |  :------: |
+| **Supported Model** |    |
+| CNN for MNIST | ✅ |
+| CNN for Cifar10 | ✅ |
+| CNN for Healthcare System | ✅ |
+| BERT-Tiny | 🛠 |
+| LLaMA | 🛠|
+| Traditional ML Algorithm (Decision Tree, KNN etc) | 🔨 |
+| **Mode** |    |
+| Inference| ✅ |
+| Training | 🔨 |
+| Fine-tuning | 🔨 |
+| **Optimization** |    |
+| GPU Acceleration | ✅ |
+| **Functionality** |    |
+| User-Friendly SDK| 🛠 |
