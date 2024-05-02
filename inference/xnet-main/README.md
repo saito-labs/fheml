@@ -1,4 +1,5 @@
-
-xne-plain for the plainttext
-xne-seal for the  CPU
-xne-cahel for the GPU
+```
+xnet-plain for the plainttext
+xnet-seal for the  CPU
+xnet-cahel for the GPU
+```
