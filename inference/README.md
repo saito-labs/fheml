@@ -4,8 +4,6 @@ Large transformer-based models like BERT, GPT, have achieved state-of-the-art (S
 ## Building
 
 
-CMake
-
 ### Building CAHEL
 
 
